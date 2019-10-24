@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-24T04:33:32.970Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="kywJ7BqNw-0805Bv3Uhy" version="12.1.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-10-24T04:39:56.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:69.0) Gecko/20100101 Firefox/69.0" etag="2lbz2dy4QlVPGmicnOZI" version="12.1.4" type="github" pages="1">
   <diagram id="66luMfSY360YQ58SDBbo" name="Page-1">
     <mxGraphModel dx="768" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="S2djndltIK2n1eHrcPjO-2" value="Student" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="286" width="290" height="188" as="geometry"/>
         </mxCell>
-        <mxCell id="S2djndltIK2n1eHrcPjO-3" value="- _answer:List&lt;string&gt;&#xa;- _result:int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="S2djndltIK2n1eHrcPjO-2" vertex="1">
+        <mxCell id="S2djndltIK2n1eHrcPjO-3" value="- _answer:List&lt;string&gt;&#xa;- _result: List&lt;int&gt;&#xa;- _SetsDone: List&lt;string&gt;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="S2djndltIK2n1eHrcPjO-2" vertex="1">
           <mxGeometry y="26" width="290" height="54" as="geometry"/>
         </mxCell>
         <mxCell id="S2djndltIK2n1eHrcPjO-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="S2djndltIK2n1eHrcPjO-2" vertex="1">
           <mxGeometry y="80" width="290" height="8" as="geometry"/>
         </mxCell>
-        <mxCell id="S2djndltIK2n1eHrcPjO-5" value="+ Student (name:string)&#xa;+ DoQuestions (mcqSet:List&lt;MCQSet&gt;)&#xa;+ Answers:int &lt;&lt;readonly property&gt;&gt;&#xa;+ Result: int &lt;&lt;readonly property&gt;&gt;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="S2djndltIK2n1eHrcPjO-2" vertex="1">
+        <mxCell id="S2djndltIK2n1eHrcPjO-5" value="+ Student (name:string)&#xa;+ DoQuestions (mcqSet:List&lt;MCQSet&gt;)&#xa;+ Answers: List&lt;string&gt; &lt;&lt;readonly property&gt;&gt;&#xa;+ Result: List&lt;int&gt; &lt;&lt;readonly property&gt;&gt;&#xa;+ SetsDone: List&lt;string&gt; &lt;&lt;readonly property&gt;&gt;&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="S2djndltIK2n1eHrcPjO-2" vertex="1">
           <mxGeometry y="88" width="290" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="S2djndltIK2n1eHrcPjO-10" value="Teacher" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
