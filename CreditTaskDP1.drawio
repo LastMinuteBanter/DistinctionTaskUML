@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-20T14:23:30.884Z" agent="5.0 (Windows)" etag="jIvUSbCCUjXxH_mYtK42" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-20T14:35:15.036Z" agent="5.0 (Windows)" etag="3i2y53xF4kPYOATrSLj1" version="12.9.14" type="github">
   <diagram id="MmDphnJlKByqqRI8YQIz" name="Page-1">
-    <mxGraphModel dx="2805" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3084" dy="1171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -305,7 +305,7 @@
             <mxPoint x="1420" y="850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RwgkNWg6vOUG9b9A2rqR-3" value="Obtain latest information on enrollment invoice and unit&#39;s student listing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RwgkNWg6vOUG9b9A2rqR-3" value="&lt;span&gt;Receives &amp;nbsp;&amp;nbsp; Updated Enrollment Invoice&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1012.5" y="888.41" width="115" height="73.18" as="geometry" />
         </mxCell>
         <mxCell id="RwgkNWg6vOUG9b9A2rqR-6" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nQOmDfqEmNwlOo48aO-k-37" target="RwgkNWg6vOUG9b9A2rqR-3" edge="1">
@@ -317,7 +317,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RwgkNWg6vOUG9b9A2rqR-9" value="Obtain latest information on enrollment invoice and unit&#39;s student listing" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="RwgkNWg6vOUG9b9A2rqR-9" value="&lt;span&gt;Receives updated list of enrolled students in specified unit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1652.5" y="888.41" width="115" height="73.18" as="geometry" />
         </mxCell>
         <mxCell id="RwgkNWg6vOUG9b9A2rqR-10" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nQOmDfqEmNwlOo48aO-k-37" target="RwgkNWg6vOUG9b9A2rqR-9" edge="1">
