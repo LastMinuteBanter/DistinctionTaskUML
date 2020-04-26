@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-26T10:47:34.948Z" agent="5.0 (Windows)" etag="JIguQk0PdwbLQ5maKkkx" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-26T10:59:32.565Z" agent="5.0 (Windows)" etag="b28CDAilwWE3iG9FekoP" version="13.0.1" type="github">
   <diagram id="TUaeIwJqIPwaMvK1Nt-R" name="Page-1">
-    <mxGraphModel dx="520" dy="267" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2275" dy="1170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -156,8 +156,8 @@
             <mxPoint x="1390" y="370" as="sourcePoint" />
             <mxPoint x="1500" y="420" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1390" y="410" />
-              <mxPoint x="1557" y="410" />
+              <mxPoint x="1390" y="420" />
+              <mxPoint x="1557" y="420" />
             </Array>
             <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
@@ -177,18 +177,106 @@
         <mxCell id="-B1I44Br9PL9_KYWqfww-69" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="650" as="sourcePoint" />
-            <mxPoint x="800" y="590" as="targetPoint" />
+            <mxPoint x="1230" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-B1I44Br9PL9_KYWqfww-70" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0.556;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-22" target="-B1I44Br9PL9_KYWqfww-71">
-          <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="1230" y="670" as="sourcePoint" />
-            <mxPoint x="950" y="670" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-B1I44Br9PL9_KYWqfww-71" value="Receive customer&#39;s booking request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-B1I44Br9PL9_KYWqfww-71" value="Drives to customer&#39;s initial location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1170" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-72" value="" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="-B1I44Br9PL9_KYWqfww-71">
+          <mxGeometry x="-1" y="3" relative="1" as="geometry">
+            <mxPoint x="1230" y="640" as="sourcePoint" />
+            <mxPoint x="960" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-73" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-61" target="-B1I44Br9PL9_KYWqfww-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="620" as="sourcePoint" />
+            <mxPoint x="670" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-74" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-66" target="-B1I44Br9PL9_KYWqfww-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="560" as="sourcePoint" />
+            <mxPoint x="770" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-75" value="Gets inside Driver&#39;s vehicle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-76" value="Reaches customer&#39;s destination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-77" value="Exit&#39;s vehicle and reaches their destination" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-78" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="810" as="sourcePoint" />
+            <mxPoint x="1130" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-79" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-75" target="-B1I44Br9PL9_KYWqfww-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="830" as="sourcePoint" />
+            <mxPoint x="970" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="790" />
+              <mxPoint x="1120" y="790" />
+              <mxPoint x="1230" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-80" value="" style="endArrow=classic;html=1;entryX=1.003;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-76" target="-B1I44Br9PL9_KYWqfww-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="840" as="sourcePoint" />
+            <mxPoint x="910" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="916" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-81" value="" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-B1I44Br9PL9_KYWqfww-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="380" as="sourcePoint" />
+            <mxPoint x="1290" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-82" value="Re-do booking request" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-83" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-82" target="-B1I44Br9PL9_KYWqfww-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="450" as="sourcePoint" />
+            <mxPoint x="1000" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-84" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="-B1I44Br9PL9_KYWqfww-82">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="650" as="sourcePoint" />
+            <mxPoint x="1100" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1070" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-85" value="Driver accepts request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="660" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-86" value="Booking request is not valid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="340" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-87" value="Driver rejects request" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1145" y="620" width="85" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-88" value="Booking request is valid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="390" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-B1I44Br9PL9_KYWqfww-89" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-B1I44Br9PL9_KYWqfww-77" target="-B1I44Br9PL9_KYWqfww-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="950" as="sourcePoint" />
+            <mxPoint x="860" y="900" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
