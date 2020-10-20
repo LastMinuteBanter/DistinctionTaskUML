@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T17:57:28.230Z" agent="5.0 (Windows)" etag="5PAMSz3XykKU8N6X1lwC" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-20T17:58:18.770Z" agent="5.0 (Windows)" etag="TQF2tgQPTQOjFoV09I0f" version="13.8.0" type="github">
   <diagram id="sMENB0BKSFF5UfW-DyX-" name="Page-1">
     <mxGraphModel dx="1545" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,14 +19,14 @@
         <mxCell id="gUTGTygOhM5yVj5egO7G-8" value="MyUserDTO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="244" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gUTGTygOhM5yVj5egO7G-9" value="MyuserFacade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gUTGTygOhM5yVj5egO7G-9" value="&lt;div&gt;MyuserFacade&lt;/div&gt;&lt;div&gt;(Remote)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="404" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gUTGTygOhM5yVj5egO7G-10" value="Business Tier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gUTGTygOhM5yVj5egO7G-10" value="&lt;b&gt;Business Tier&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="204" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gUTGTygOhM5yVj5egO7G-11" value="Web Tier" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="214" width="115" height="20" as="geometry" />
+        <mxCell id="gUTGTygOhM5yVj5egO7G-11" value="&lt;b&gt;Web Tier&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="802.5" y="204" width="115" height="20" as="geometry" />
         </mxCell>
         <mxCell id="gUTGTygOhM5yVj5egO7G-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gUTGTygOhM5yVj5egO7G-12" target="gUTGTygOhM5yVj5egO7G-14">
           <mxGeometry relative="1" as="geometry" />
