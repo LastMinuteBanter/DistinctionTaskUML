@@ -1,20 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T07:26:31.493Z" agent="5.0 (Windows)" etag="cH-4gjhBh18gCxTz8nhb" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-25T14:12:30.423Z" agent="5.0 (Windows)" etag="pf8Pg0oUMw_10KV14zB2" version="13.8.1" type="github">
   <diagram id="68TREvA6BFFCCgDvRHD5" name="Page-1">
-    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RdyQYnXxG0MiQOvbN0wK-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="108" y="200" width="290" height="280" as="geometry" />
+          <mxGeometry x="-92" y="200" width="290" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RdyQYnXxG0MiQOvbN0wK-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="200" width="290" height="280" as="geometry" />
+          <mxGeometry x="310" y="200" width="290" height="280" as="geometry" />
         </mxCell>
         <mxCell id="RdyQYnXxG0MiQOvbN0wK-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Business Tier&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="201.75" y="210" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="1.75" y="210" width="102.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RdyQYnXxG0MiQOvbN0wK-5" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Web Tier&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="546.75" y="210" width="102.5" height="20" as="geometry" />
+          <mxGeometry x="420" y="210" width="102.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-20" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-260" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-21" value="ShopCartAppClient.java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-22" value="ShoppingCartBean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-23" value="CartItem" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-24" value="ProductFacade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-25" value="&lt;div&gt;ShoppingCartBeanRemote&lt;/div&gt;&lt;div&gt;(Remote)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RdyQYnXxG0MiQOvbN0wK-26" value="CartItem.java" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="250" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
