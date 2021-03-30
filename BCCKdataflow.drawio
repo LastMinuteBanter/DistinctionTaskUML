@@ -1,41 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-03-29T18:39:05.874Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="9M84Yv7QyF-HnCpUlHCs" version="14.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-30T08:18:07.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36 Edg/89.0.774.63" etag="RTttBUDcN249m6_XXfCM" version="14.5.3" type="github">
   <diagram id="k6v7SNn6R5cbtLQKh57G" name="Page-1">
-    <mxGraphModel dx="2272" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4405" dy="1985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="owvocZtWML4od7lgdQ8R-1" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="90" y="410" width="100" height="30" as="geometry" />
+          <mxGeometry x="110" y="415" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=55;exitPerimeter=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-2" target="owvocZtWML4od7lgdQ8R-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-2" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="-130" y="280" width="100" height="100" as="geometry" />
+          <mxGeometry x="-70" y="270" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-3" value="Head of &#xa;Department" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="owvocZtWML4od7lgdQ8R-2">
           <mxGeometry width="80" height="30" relative="1" as="geometry">
             <mxPoint x="-15" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-4" target="owvocZtWML4od7lgdQ8R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-4" target="owvocZtWML4od7lgdQ8R-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-4" value="Receive Request" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="100" y="305" width="100" height="50" as="geometry" />
+          <mxGeometry x="110" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-5" target="owvocZtWML4od7lgdQ8R-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-5" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="100" height="100" as="geometry" />
+          <mxGeometry x="290" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-6" value="Division Head" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="owvocZtWML4od7lgdQ8R-5">
           <mxGeometry width="90" height="20" relative="1" as="geometry">
             <mxPoint x="-20" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-7" target="owvocZtWML4od7lgdQ8R-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-7" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="570" y="270" width="100" height="100" as="geometry" />
+          <mxGeometry x="660" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-8" value="HR Manager" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="owvocZtWML4od7lgdQ8R-7">
           <mxGeometry width="80" height="20" relative="1" as="geometry">
             <mxPoint x="-15" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-9" target="owvocZtWML4od7lgdQ8R-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-9" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="830" y="270" width="100" height="100" as="geometry" />
+          <mxGeometry x="1000" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-10" value="Director of HR" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="owvocZtWML4od7lgdQ8R-9">
           <mxGeometry width="90" height="20" relative="1" as="geometry">
@@ -43,15 +61,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-11" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.externalEntity" vertex="1" parent="1">
-          <mxGeometry x="1290" y="255" width="100" height="100" as="geometry" />
+          <mxGeometry x="1350" y="280" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-12" value="CEO" style="autosize=1;part=1;resizable=0;strokeColor=inherit;fillColor=inherit;gradientColor=inherit;" vertex="1" parent="owvocZtWML4od7lgdQ8R-11">
           <mxGeometry width="40" height="20" relative="1" as="geometry">
             <mxPoint x="5" y="15" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-13" target="owvocZtWML4od7lgdQ8R-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-13" target="owvocZtWML4od7lgdQ8R-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="owvocZtWML4od7lgdQ8R-13" value="Updates Request &lt;br&gt;Approval" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="410" y="305" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.067;entryY=0.505;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-14" target="owvocZtWML4od7lgdQ8R-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-14" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Review and Approves&lt;br&gt;Request&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="830" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-17" value="Submit&lt;br&gt;Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="owvocZtWML4od7lgdQ8R-23" target="owvocZtWML4od7lgdQ8R-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-23" value="Verifies and&amp;nbsp;&lt;br&gt;Recommends&lt;br&gt;Request" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="305" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-26" value="Data Store" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-28" value="" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="470" y="415" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="owvocZtWML4od7lgdQ8R-30" value="Received Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="380" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
