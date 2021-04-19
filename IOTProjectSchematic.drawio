@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-19T07:06:40.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="tkYEpIywPClT8XiwNH1y" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-19T09:56:53.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="Gsm8rTuM34RVNs1_0kGh" version="14.6.0" type="github">
   <diagram id="U2VqpkZvo0bDtKIlAS_Z" name="Page-1">
-    <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,12 @@
         </mxCell>
         <mxCell id="iP8J2Y2W8ofI4uU7VaFe-23" value="Sensor Information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="345" y="870" width="105" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iP8J2Y2W8ofI4uU7VaFe-24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;IOT Nodes&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="510" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iP8J2Y2W8ofI4uU7VaFe-25" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Edge Device&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="210" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
