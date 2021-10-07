@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T13:41:25.757Z" agent="5.0 (Windows)" etag="xpkQnGBm37-pk_FCu2Br" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T13:41:57.204Z" agent="5.0 (Windows)" etag="Y8XvntHfKD5BriAMDW1H" version="15.4.3" type="github">
   <diagram id="UJVtRwwvK5uKVyhLd9jK" name="Page-1">
-    <mxGraphModel dx="6718" dy="2596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="5988" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1220" y="990" width="480" height="500" as="geometry" />
         </mxCell>
         <mxCell id="RI5SfNiTsbT4uMfKhP2q-17" value="&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;Mitigating Bargaining power of suppliers&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 12px&quot; size=&quot;1&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot; align=&quot;justify&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;1. Widen the number of suppliers&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot; align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;The bargaining power of suppliers is fairly low in the online retail market as Uniqlo is known to engage with a wider number of suppliers.&lt;/li&gt;&lt;li&gt;Usui, Kotabe and Murray (2017, p.33) mentioned about Uniqlo’s strategy of maintaining flexibility among suppliers and avoid excessive dependency.&amp;nbsp; &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot; align=&quot;justify&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;2. Maintaining good relationships with suppliers&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot; align=&quot;justify&quot;&gt;&lt;ul&gt;&lt;li&gt;A way for Uniqlo to mitigate the bargaining power of suppliers is to maintain good relationships with their suppliers, by exchanging expertise with one another.&lt;/li&gt;&lt;li&gt;Uniqlo could employ experts to not only improve their products and service, but also improve some business processes among their suppliers or partners, which allows both sides to benefit and maintain a good relationship.&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingRight=15;spacingLeft=15;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="370" width="480" height="414" as="geometry" />
+          <mxGeometry x="1220" y="230" width="480" height="554" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
